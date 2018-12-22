@@ -1,0 +1,17 @@
+outlook,temp,humidity,windy,playgolf
+rainy,hot,high,false1,no
+rainy,hot,high,true1,no
+overcast,hot,high,false1,yes
+sunny,mild,high,false1,yes
+sunny,cool,normal,false1,yes
+sunny,cool,normal,true1,no
+overcast,cool,normal,true1,yes
+rainy,mild,high,false1,no
+rainy,cool,normal,false1,yes
+sunny,mild,normal,false1,yes
+rainy,mild,normal,true1,yes
+overcast,mild,high,true1,yes
+overcast,hot,normal,false1,yes
+sunny,mild,high,true1,no
+
+
